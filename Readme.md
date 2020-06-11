@@ -1,4 +1,4 @@
-                                  ## Shop Project
+   # Shop Project
 
    ## This is portfolio project and my playground for the new technologes I am learning.
 
