@@ -17,6 +17,6 @@
 
 ## To Do List:
 
-   1.Improve style. Now it's pure styled, only logic).
-   2.Add sorting functionality.
-   3.Update header.
+   1. Improve style. Now it's pure styled, only logic).
+   2. Add sorting functionality.
+   3. Update header.
