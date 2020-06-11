@@ -21,8 +21,9 @@
    2. Add sorting functionality.
    3. Update header.
 
--  Ссылка на проект в браузерной IDE - https://codesandbox.io/s/redux-shopdk-ot07v?file=/src/index.js;     
--  Ссылка как проект выглядит в браузере - https://ot07v.csb.app/.
+   -  Ссылка на проект в браузерной IDE - https://codesandbox.io/s/redux-shopdk-ot07v?file=/src/index.js; 
+   
+   -  Ссылка как проект выглядит в браузере - https://ot07v.csb.app/.
 
  Можно просматривать прямо в браузере. На codesandbox.io удобно просматривать, удобная навигация по проекту.
 
